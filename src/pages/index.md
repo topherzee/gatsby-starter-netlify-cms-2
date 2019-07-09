@@ -1,8 +1,8 @@
 ---
 templateKey: index-page
-title: KOOFFEEE NOW INDEED
+title: KOOFFEEE NOW INDEED2
 image: /img/home-jumbotron.jpg
-heading: KOOFFEEE NOW
+heading: KOOFFEEE NOW2
 subheading: Support sustainable farming while enjoying a cup
 mainpitch:
   title: Why Kaldi
